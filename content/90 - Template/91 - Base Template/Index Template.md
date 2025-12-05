@@ -7,7 +7,6 @@ modified: <% tp.file.last_modified_date("YYYY/MM/DD") %>
 tags:
   - index-note
   - mega-link
-permalink:
 draft: false
 todo: true
 ---

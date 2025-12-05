@@ -29,36 +29,6 @@
       },
       "fileExistsMode": "Nothing",
       "setFileExistsBehavior": false
-    },
-    {
-      "id": "8286dd2c-d8ec-40dd-9976-6a8f7c94d912",
-      "name": "Create Property Mega Link",
-      "type": "Template",
-      "command": true,
-      "templatePath": "90 - Template/91 - Base Template/Mega Link Property Template.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "10 - Mega Links/12 - Property"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": true
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Nothing",
-      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",

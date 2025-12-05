@@ -1,11 +1,11 @@
 ---
-title: gearbox
+title: git
 aliases:
-  - "#gearbox"
-created: 2025/12/03
-modified: 2025-12-05T11:12:30-05:00
+  - "#git"
+created: 2025/12/05
+modified: 2025-12-05T11:12:34-05:00
 tags:
-  - gearbox
+  - git
   - tag-note
   - mega-link
 draft: false
