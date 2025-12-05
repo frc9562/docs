@@ -1,0 +1,88 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "90 - Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "90 - Template/91 - Base Template/Base Template.md"
+    },
+    {
+      "folder": "00 - Quick Notes",
+      "template": "90 - Template/91 - Base Template/Quick Note.md"
+    },
+    {
+      "folder": "tags",
+      "template": "90 - Template/91 - Base Template/Tag Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/21 - Engineering",
+      "template": "90 - Template/92 - Sub Team Template/Engineering Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/22 - Programming",
+      "template": "90 - Template/92 - Sub Team Template/Programming Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/23 - Electrical",
+      "template": "90 - Template/92 - Sub Team Template/Electrical Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/24 - Strategy",
+      "template": "90 - Template/92 - Sub Team Template/Strategy Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/25 - Documentation",
+      "template": "90 - Template/92 - Sub Team Template/Documentation Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/26 - Business",
+      "template": "90 - Template/92 - Sub Team Template/Business Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/27 - Imagery",
+      "template": "90 - Template/92 - Sub Team Template/Imagery Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/28 - Safety",
+      "template": "90 - Template/92 - Sub Team Template/Safety Template.md"
+    },
+    {
+      "folder": "20 - Sub Team/29 - Outreach",
+      "template": "90 - Template/92 - Sub Team Template/Outreach Template.md"
+    },
+    {
+      "folder": "30 - Seasonal/2025",
+      "template": "90 - Template/93 - Seasonal Template/2025 Template.md"
+    },
+    {
+      "folder": "30 - Seasonal/2026",
+      "template": "90 - Template/93 - Seasonal Template/2026 Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": "^index\\.md$",
+      "template": "90 - Template/91 - Base Template/Index Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [],
+  "intellisense_render": 1
+}

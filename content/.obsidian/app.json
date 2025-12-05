@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "90 - Template/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Quick Notes"
+}

@@ -1,0 +1,21 @@
+{
+  "includeAllFilesInRecent": true,
+  "recentNotesLimit": 10,
+  "pinnedNotes": [
+    "Test Note.md",
+    "01 - Mega Links/Property/season/2026.md",
+    "03 - Seasonal/2025/Programming/2025 Recode.md",
+    "index.md"
+  ],
+  "replaceNewTab": true,
+  "showTitleNavigationBar": "default",
+  "showCustomFooterText": true,
+  "useRandomFooterText": false,
+  "todayRandomEnFooterText": "2025-12-03|Blessed is he who expects nothing, for he shall be disappointed. - Jonathan Swift",
+  "todayRandomZhFooterText": "",
+  "customFooterText": "Cool - Zach",
+  "scrollPosition": 0,
+  "showStatBar": true,
+  "lastVersionCheck": 1764907950218,
+  "latestVersion": ""
+}

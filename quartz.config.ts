@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {},
     locale: "en-US",
     baseUrl: "docs.frc9562.ca",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "90 - Template", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

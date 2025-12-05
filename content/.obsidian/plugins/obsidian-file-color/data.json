@@ -1,0 +1,71 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "A5cOCN-Hcx6fUh8Y9CtKZ",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "TTUuHg8Wxl-uaia5zsVbe",
+      "name": "Gray",
+      "value": "#c8c8c8"
+    },
+    {
+      "id": "ddlAa4BZHN9jdQxgyko8Z",
+      "name": "Purple",
+      "value": "#bf60d2"
+    },
+    {
+      "id": "PYJyW5oDwXbSPc9X4hQ5F",
+      "name": "Orange",
+      "value": "#f4873e"
+    },
+    {
+      "id": "vlcTBkQYGzd6GylvgVgh4",
+      "name": "Light Blue",
+      "value": "#548de8"
+    },
+    {
+      "id": "5ZwNNdjPqZtTyn96emKBl",
+      "name": "Light Green",
+      "value": "#70d29f"
+    },
+    {
+      "id": "cpjY-UIoQ783xmUWFxin7",
+      "name": "blue",
+      "value": "#4d60ef"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Quick Notes",
+      "color": "A5cOCN-Hcx6fUh8Y9CtKZ"
+    },
+    {
+      "path": "90 - Template",
+      "color": "TTUuHg8Wxl-uaia5zsVbe"
+    },
+    {
+      "path": "30 - Hardware",
+      "color": "PYJyW5oDwXbSPc9X4hQ5F"
+    },
+    {
+      "path": "10 - Sub Team",
+      "color": "vlcTBkQYGzd6GylvgVgh4"
+    },
+    {
+      "path": "20 - Seasonal",
+      "color": "5ZwNNdjPqZtTyn96emKBl"
+    },
+    {
+      "path": "tags",
+      "color": "ddlAa4BZHN9jdQxgyko8Z"
+    },
+    {
+      "path": "40 - Team",
+      "color": "cpjY-UIoQ783xmUWFxin7"
+    }
+  ]
+}

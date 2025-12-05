@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#mega-link  ",
+      "color": {
+        "a": 1,
+        "rgb": 14428895
+      }
+    },
+    {
+      "query": "[\"sub-team\":Engineering]",
+      "color": {
+        "a": 1,
+        "rgb": 2911473
+      }
+    },
+    {
+      "query": "[\"sub-team\":Programming]",
+      "color": {
+        "a": 1,
+        "rgb": 9064447
+      }
+    },
+    {
+      "query": "[\"sub-team\":Documentation]",
+      "color": {
+        "a": 1,
+        "rgb": 14713938
+      }
+    },
+    {
+      "query": "[\"sub-team\":Electrical]",
+      "color": {
+        "a": 1,
+        "rgb": 15913472
+      }
+    },
+    {
+      "query": "[\"sub-team\":Strategy]",
+      "color": {
+        "a": 1,
+        "rgb": 3261325
+      }
+    },
+    {
+      "query": "[\"sub-team\":Documentation]",
+      "color": {
+        "a": 1,
+        "rgb": 11449543
+      }
+    },
+    {
+      "query": "[\"sub-team\":Business]",
+      "color": {
+        "a": 1,
+        "rgb": 16743229
+      }
+    },
+    {
+      "query": "[\"sub-team\":Imagery]",
+      "color": {
+        "a": 1,
+        "rgb": 16732067
+      }
+    },
+    {
+      "query": "[\"sub-team\":Safety]",
+      "color": {
+        "a": 1,
+        "rgb": 15087158
+      }
+    },
+    {
+      "query": "[\"sub-team\":Outreach]",
+      "color": {
+        "a": 1,
+        "rgb": 4503551
+      }
+    },
+    {
+      "query": "tag:#hardware  ",
+      "color": {
+        "a": 1,
+        "rgb": 16752410
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5036084832844249,
+  "close": false
+}
