@@ -2,9 +2,9 @@
 title: Obsidian Formatting
 aliases:
 created: 2025/12/03
-modified: 2025-12-03T23:41:04-05:00
+modified: 2025-12-05T12:10:34-05:00
 tags:
-  - programming
+  - documentation
 draft: false
 todo: true
 ---

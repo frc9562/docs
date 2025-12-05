@@ -3,7 +3,7 @@ title: safety
 aliases:
   - "#safety"
 created: 2025/12/03
-modified: 2025-12-04T17:54:37-05:00
+modified: 2025-12-05T13:57:36-05:00
 tags:
   - safety
   - tag-note

@@ -1,15 +1,10 @@
 ---
-title: 20 - Seasonal
+title: Quartz
 aliases:
-  - 20 - Seasonal
-  - Seasonal
-  - Season
-created: 2025/12/04
-modified: 2025-12-05T12:18:47-05:00
+created: 2025/12/05
+modified: 2025-12-05T12:10:08-05:00
 tags:
-  - index-note
-  - mega-link
-permalink: seasonal
+  - documentation
 draft: false
 todo: true
 ---
@@ -17,6 +12,7 @@ todo: true
 > 
 > This note is missing information, if you have information to help finish this note, share with the [[10 - Sub Team/15 - Documentation/index|Documentation Team]] and help out!
 
-## Key Notes
-- [[20 - Seasonal/2025/index|2025]]
-- [[20 - Seasonal/2026/index|2026]]
+## Info
+
+## References
+<% tp.file.cursor(3) %>

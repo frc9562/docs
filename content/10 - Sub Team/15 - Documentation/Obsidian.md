@@ -1,13 +1,10 @@
 ---
-title: gearbox
+title: Obsidian
 aliases:
-  - "#gearbox"
-created: 2025/12/03
-modified: 2025-12-05T11:12:30-05:00
+created: 2025/12/05
+modified: 2025-12-05T12:10:44-05:00
 tags:
-  - gearbox
-  - tag-note
-  - mega-link
+  - documentation
 draft: false
 todo: true
 ---
@@ -15,4 +12,7 @@ todo: true
 > 
 > This note is missing information, if you have information to help finish this note, share with the [[10 - Sub Team/15 - Documentation/index|Documentation Team]] and help out!
 
-<% tp.file.cursor(1) %>
+## Info
+
+## References
+<% tp.file.cursor(3) %>

@@ -3,7 +3,7 @@ title: config
 aliases:
   - "#config"
 created: 2025/12/03
-modified: 2025-12-05T11:12:16-05:00
+modified: 2025-12-05T12:15:39-05:00
 tags:
   - config
   - tag-note
@@ -11,10 +11,6 @@ tags:
 draft: false
 todo: true
 ---
-> [!warning] This Note is Unfinished!
-> 
-> This note is missing information, if you have information to help finish this note, share with the [[10 - Sub Team/15 - Documentation/index|Documentation Team]] and help out!
-
 > [!error] This Note is Removed Soon!
 > 
 > This note is going to be removed and replace with a new note soon (TM)

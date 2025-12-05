@@ -88,6 +88,14 @@
     "hardware": {
       "pillColor": "orange",
       "textColor": "default"
+    },
+    "git": {
+      "pillColor": "red",
+      "textColor": "default"
+    },
+    "motor": {
+      "pillColor": "yellow",
+      "textColor": "default"
     }
   },
   "enableBanner": true,

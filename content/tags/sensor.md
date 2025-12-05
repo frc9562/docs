@@ -3,18 +3,11 @@ title: sensor
 aliases:
   - "#sensor"
 created: 2025/12/03
-modified: 2025-12-04T17:54:40-05:00
+modified: 2025-12-05T13:59:14-05:00
 tags:
   - sensor
   - tag-note
   - mega-link
 draft: false
-todo: true
 ---
-> [!warning] This Note is Unfinished!
-> 
-> This note is missing information, if you have information to help finish this note, share with the [[10 - Sub Team/15 - Documentation/index|Documentation Team]] and help out!
-
-<% tp.file.cursor(1) %>
-## Key Notes
-<% tp.file.cursor(2) %>
+The #sensor Tag is used to categorize notes about motors for the robot. These notes are found in the [[30 - Hardware/index|30 - Hardware]] folder and cover info for [[10 - Sub Team/11 - Engineering/index| Engineering]], [[10 - Sub Team/12 - Programming/index|Programming]], and [[10 - Sub Team/13 - Electrical/index|Electrical]].

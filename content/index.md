@@ -1,10 +1,10 @@
 ---
-title: Welcome to the Royal Robotics Wiki
+title: Welcome to the Royal Robotics Documentation
 aliases:
   - Homepage
   - Main Page
 created: 2025/12/03
-modified: 2025-12-04T23:18:31-05:00
+modified: 2025-12-05T12:58:22-05:00
 tags:
   - index-note
   - mega-link
@@ -15,7 +15,7 @@ todo: true
 > [!warning]
 > This documentation project has just started and thus notes are still an extreme work-in-progress! If you're not part of 9562, or you are but aren't looking to *write* content, this probably isn't your best source for information just yet. If you have knowledge to share, please contact the Programming or Documentation leads, contributions are welcome.
 
-Welcome to The Royal Robotics Wiki, a source for all documentation for the Bishop Reding First Robotics Team (Team 9562).  This Site make use of Markdown noted created and formatted in [Obsidian](https://obsidian.md/) and publish to the rest of the team via [Quartz](https://github.com/jackyzha0/quartz).
+Welcome to The Royal Robotics Documentation, a source for all documentation for the Bishop Reding First Robotics Team (Team 9562).  This Site make use of Markdown noted created and formatted in [[Obsidian]] and publish to the rest of the team via [[Quartz]].
 
 Generally notes are sorted into 5 categories: 
 - [[00 - Quick Notes/index|]] [[00 - Quick Notes/index|00 - Quick Notes]] stores any unsorted notes
