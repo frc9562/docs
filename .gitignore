@@ -10,6 +10,7 @@ private/
 replit.nix
 
 content/.trash/
+content/.obsidian/.plugins/
 content/.obsidian/.trash/
 content/.obsidian/themes/
 content/.obsidian/appearance.json
