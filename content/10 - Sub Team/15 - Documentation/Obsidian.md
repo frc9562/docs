@@ -2,17 +2,16 @@
 title: Obsidian
 aliases:
 created: 2025/12/05
-modified: 2025-12-05T12:10:44-05:00
+modified: 2025-12-05T14:15:24-05:00
 tags:
   - documentation
+  - software
 draft: false
 todo: true
 ---
-> [!warning] This Note is Unfinished!
-> 
-> This note is missing information, if you have information to help finish this note, share with the [[10 - Sub Team/15 - Documentation/index|Documentation Team]] and help out!
-
+Obsidian is a note making and markdown editor made for creating personal knowledge bases like your own Wikipedia. O
 ## Info
 
 ## References
-<% tp.file.cursor(3) %>
+[Obsidian](https://obsidian.md/)
+[Obsidian Wiki](<https://en.wikipedia.org/wiki/Obsidian_(software)>)

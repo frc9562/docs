@@ -3,7 +3,7 @@ title: sensor
 aliases:
   - "#sensor"
 created: 2025/12/03
-modified: 2025-12-05T13:59:14-05:00
+modified: 2025-12-05T14:00:29-05:00
 tags:
   - sensor
   - tag-note

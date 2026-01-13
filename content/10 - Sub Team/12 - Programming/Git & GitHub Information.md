@@ -2,7 +2,7 @@
 title: Git & GitHub Information
 aliases:
 created: 2025/12/03
-modified: 2025-12-03T23:39:08-05:00
+modified: 2025-12-05T14:01:11-05:00
 tags:
   - programming
   - config
