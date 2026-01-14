@@ -4,7 +4,7 @@ aliases:
   - "2026"
   - 2026 Season
 created: 2025/12/03
-modified: 2026-01-13T15:33:45-05:00
+modified: 2026-01-14T08:10:48-05:00
 tags:
   - index-note
   - mega-link
@@ -28,6 +28,7 @@ todo: true
 
 ## Kick Off Videos and Manual
 [2026 FIRST Robotics Competition Game Manual](https://firstfrc.blob.core.windows.net/frc2026/Manual/2026GameManual.pdf)
+[2026 FIRST Robotics Competition Team Update 01](https://firstfrc.blob.core.windows.net/frc2026/Manual/TeamUpdates/REBUILT_TeamUpdate01.pdf)
 [2026 FIRST Robotics Competition Field Dimension Drawings](https://firstfrc.blob.core.windows.net/frc2026/FieldAssets/2026-field-dimension-dwgs.pdf)
 [2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)
 [2026 FIRST Robotics Competition Additional Field Interactions](https://www.youtube.com/watch?v=foDtQDAjteg)
