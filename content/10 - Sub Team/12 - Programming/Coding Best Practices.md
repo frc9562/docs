@@ -11,9 +11,9 @@ draft: false
 
 ## Naming Conventions
 - Variables and functions: `camelCase`
-- Classes and types: `PascalCase`
+- Files classes and types: `PascalCase`
 - Constants: `UPPER_SNAKE_CASE`
-- Files and folders: `kebab-case`
+- Folders: `kebab-case`
 
 # Git Workflow
 
