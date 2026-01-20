@@ -2,7 +2,7 @@
 title: Version Control with Git & GitHub
 aliases:
 created: 2025/12/03
-modified: 2025-12-15T15:54:17-05:00
+modified: 2026-01-20T15:12:21-05:00
 tags:
   - programming
   - config
